@@ -15,4 +15,4 @@
 - Conceito 5: Pull Request
 -É uma solicitação de revisão e integração de alterações
 
-
+- feat: Adiciona arquivo inicial de material de estudo 
